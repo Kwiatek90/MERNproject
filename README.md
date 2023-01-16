@@ -12,7 +12,7 @@ Następnie trzeba urchomić terminal w frontend i urchomić aplikacje z poleceni
 
 npm start
 
-<center>Widok aplikacji</center>
+Widok aplikacji:
 
 ![wygląd strony](https://user-images.githubusercontent.com/96494546/212754210-3d0476c3-e513-4a5c-b65e-0a427f3c081c.png)
 
