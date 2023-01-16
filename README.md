@@ -11,3 +11,5 @@ node server.js
 Następnie trzeba urchomić terminal w frontend i urchomić aplikacje z polecenie:
 
 npm start
+
+Widok aplikacji![wygląd strony](https://user-images.githubusercontent.com/96494546/212753998-1f963e0d-6ba5-4efb-bdff-32e25acedb46.png)
