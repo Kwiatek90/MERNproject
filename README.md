@@ -14,4 +14,4 @@ npm start
 
 <center>Widok aplikacji!</center>
 
-[wygląd strony](https://user-images.githubusercontent.com/96494546/212753998-1f963e0d-6ba5-4efb-bdff-32e25acedb46.png)
+(https://user-images.githubusercontent.com/96494546/212753998-1f963e0d-6ba5-4efb-bdff-32e25acedb46.png)
