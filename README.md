@@ -1,7 +1,7 @@
 # MERN Bookshelf
 
 ## Spis treści
-* [Charakterystyka pprogramowania ](#charakterystyka-oprogramowania)
+* [Charakterystyka oprogramowania ](#charakterystyka-oprogramowania)
 * [Prawa autorskie i wymagane licencje  ](#prawa-autorskie-i-wymagane-licencje)
 * [Specyfikacja wymagań ](#specyfikacja-wymagań)
 * [Architektura systemu   ](#architektura-systemu )
