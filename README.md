@@ -6,6 +6,7 @@
 * [Specyfikacja wymagań ](#specyfikacja-wymagań)
 * [Architektura systemu   ](#architektura-systemu )
 * [Setup   ](#setup )
+* [Zdjęcia   ](#zdjęcia )
 
 ## Charakterystyka oprogramowania
 MERN Bookshelf – strona webowa, służąca do przechowywania informacji na temat książek oraz informacji gdzie możemy je znaleźć
