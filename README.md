@@ -45,7 +45,18 @@ Następnie trzeba urchomić terminal w frontend i urchomić aplikacje z poleceni
 
 npm start
 
+
+## Zdjęcia
+
 Widok aplikacji:
 
 ![wygląd strony](jpg/wyglad.png)
+
+W postmanie możemy przetestować nasze API:
+
+![postman](jpg/postman.png)
+
+Aplikacja łączy się z bazą danych MongoDB, w której możemy też wyświetlić dane:
+
+![mongo](jpg/mongo.png)
 
