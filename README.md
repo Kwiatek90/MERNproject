@@ -47,5 +47,5 @@ npm start
 
 Widok aplikacji:
 
-![wygląd strony](https://user-images.githubusercontent.com/96494546/212754210-3d0476c3-e513-4a5c-b65e-0a427f3c081c.png)
+![wygląd strony](jpg/wyglad.png)
 
