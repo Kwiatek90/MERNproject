@@ -40,11 +40,11 @@ https://drive.google.com/file/d/1a4NOs95U63xjqdpq9kwkF5mMRA3252SW/view?usp=shari
 
 Aby uruchomić aplikacje w folderze backend należy urchomić terminal i wpisać komende:
 
-node server.js
+'node server.js'
 
 Następnie trzeba urchomić terminal w frontend i urchomić aplikacje z polecenie:
 
-npm start
+'npm start'
 
 
 ## Zdjęcia
